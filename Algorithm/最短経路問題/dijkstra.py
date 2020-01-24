@@ -178,7 +178,7 @@ class Dijkstra():
 
 
 if __name__ == '__main__':
-    #sample　コピペ用
+    #sampleコピペ用
     '''
 8 10
 0 1 1
